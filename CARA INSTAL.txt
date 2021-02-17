@@ -1,0 +1,9 @@
+    #Cara Install
+
+    1. Download file master.
+    2. Ekstrak didalam direktori root web server.
+        - Jika menggunakan Xampp = "C/Xampp/htdocs"
+        - Jika menggunakan Wamp =  "C/Wamp/www"
+    3. Buat database dengan nama "db_penjualan"
+    4. Inport database.sql yang telah dikirimkan.
+    5. Jalankan di browser dengan mengakses url: http://localhost/penjualan
